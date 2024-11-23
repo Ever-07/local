@@ -1,0 +1,336 @@
+.tit{
+    width: 429px;
+    height: 25px;
+    background-color: brown;
+    color: aliceblue;
+    border-radius: 2px;
+    text-align: center;
+    font-weight: bold;
+    position: relative; left: 50px;top: 20px;
+   }
+   .titeda{
+       width: 429px;
+       height: 25px;
+       background-color: brown;
+       color: aliceblue;
+       border-radius: 2px;
+       text-align: center;
+       font-weight: bold;
+       position: absolute; left: 54px;top: 320px;
+      }
+   .titmrc{
+       width: 348px;
+       height: 25px;
+       background-color: #41298A;
+       color: aliceblue;
+       border-radius: 2px;
+       text-align: center;
+       font-weight: bold;
+       position: relative; left: 50px;top: 20px;
+   }
+   .cuerpForm{
+       width: 427px;
+       height: 170px;
+       background-color:honeydew;
+       border-radius: 2px;
+       font-weight: bold;
+       position: relative; left: 50px;top: 20px;
+       border: solid 1px;
+   }
+   .cuerpFormEdad{
+       width: 427px;
+       height: 170px;
+       background-color:honeydew;
+       border-radius: 2px;
+       font-weight: bold;
+       position: relative; left: 46px;top: 140px;
+       border: solid 1px;
+   }
+   .cuerpFormEdad #tx2{
+    position: absolute; top: 62px;left: 120px;
+   }
+   .cuerpFormEdad #fna{
+       position: absolute; top: 15px;left: 120px;
+      }
+   #cd1{
+    color: blue;
+    font-weight: bold;
+    position: relative; left: 10px;top: 10px;   
+   }
+   #tx1{
+       color: blue;
+       font-weight: bold;
+       position: relative; left: 40px;top: 10px;   
+   }
+   .cdns{
+       color: blue;
+       font-weight: bold;
+       position: absolute; left: 10px;top: 60px;   
+   }
+   .cbo1{
+       background-color: aqua;
+       color: blue;
+       position: absolute; left: 98px;top: 60px;   
+       width: 130px;height: 23px;
+   }
+   .btn1{
+       background-color: cornflowerblue;
+       color: brown;
+       position: absolute;top: 120px;left: 13px;
+       width: 118px;height: 40px;
+       font-weight: bold;
+       background-image: url('../img/Add.png');
+       background-repeat: no-repeat;
+       border-radius: 10px;
+   }
+   .btn2{
+       background-color: cornflowerblue;
+       color: brown;
+       position: absolute;top: 120px;left: 230px;
+       width: 113px;height: 40px;
+       font-weight: bold;
+       background-image: url('../img/eliminar.png');
+       background-repeat: no-repeat;
+       border-radius: 10px;
+   }
+   .btngb{
+       background-color: deepskyblue;
+       color: brown;
+       position: absolute;top: 160px;left:10px;
+       width: 92px;height: 37px;
+       font-weight: bold;
+       text-align: center;
+       background-image: url('../img/Add.png');
+       background-repeat: no-repeat;
+   }
+   .btneli{
+    background-color: deepskyblue;
+    color: brown;
+    position: absolute;top: 160px;left:220px;
+    width: 92px;height: 37px;
+    font-weight: bold;
+    text-align: center;
+    background-image: url('../img/eliminar.png');
+    background-repeat: no-repeat;
+}
+
+.btncanc{
+    background-color: deepskyblue;
+    color: brown;
+    position: absolute;top: 160px;left:320px;
+    width: 100px;height: 37px;
+    font-weight: bold;
+    text-align: center;
+    font-weight: bold; background-image: url('../img/cancel.png');
+    background-repeat: no-repeat; 
+}
+   .btnmdfc{
+       background-color: deepskyblue;
+       color: brown;
+       text-align: center;
+       position: absolute;top: 160px;left:110px;
+       width: 102px;height: 37px;
+       font-weight: bold;
+       background-image: url('../img/Notes.png');
+       background-repeat: no-repeat;
+   }
+   .btngbmrc{
+    background-image: url('../img/Add.png');
+    background-repeat: no-repeat;
+       background-color: deepskyblue;
+       color: brown;
+       position: absolute;top: 60px;left:5px;
+       width: 80px;height: 30px;
+       font-weight: bold;
+   }
+   .btnmdfcmrc{
+       background-color: deepskyblue;
+       color: brown;
+       position: absolute;top: 60px;left:90px;
+       width: 80px;height: 30px;
+       font-weight: bold;
+       background-image: url('../img/Notes.png');
+       background-repeat: no-repeat;
+   }
+   .btncanmrc{
+       background-color: deepskyblue;
+       color: brown;
+       position: absolute;top: 60px;left:260px;
+       width: 80px;height: 30px;
+       font-weight: bold; background-image: url('../img/cancel.png');
+       background-repeat: no-repeat; 
+   }
+   .btnelimrc{
+       background-color: deepskyblue;
+       color: brown;
+       position: absolute;top: 60px;left:176px;
+       width: 80px;height: 30px;
+       font-weight: bold;
+       background-image: url('../img/eliminar.png');
+    background-repeat: no-repeat;
+   }
+   .cuadro{
+     width: 140px;height: 40px;
+     background-color: cyan;
+     text-align: center;
+     color: burlywood;
+     position: absolute;left: 240px;top: 40px;
+   }
+   .cuerpForm1{
+       width: 427px;
+       height: 210px;
+       background-color:honeydew;
+       border-radius: 2px;
+       font-weight: bold;
+       position: relative; left: 50px;top: 20px;
+       border: solid 1px;
+   }
+   #cdn1{
+       color: blue;
+       font-weight: bold;
+       position: relative; left: 10px;top: 10px;
+   }
+   #txtprd{
+       color: blue;
+       font-weight: bold;
+       position: relative; left: 20px;top: 10px; 
+       width: 250px;height: 20px;
+   }
+   #txtmrc{
+       color: blue;
+       font-weight: bold;
+       position: relative; left: 20px;top: 10px; 
+       width: 250px;height: 20px;    
+   }
+   #txtprc{
+       color: blue;
+       font-weight: bold;
+       position: relative; left: 80px;top: 83px;  
+       width: 250px;height: 20px;
+   }
+   #txbusmrc{
+       color: blue;
+       font-weight: bold;
+       position: absolute; top: 5px;left: 80px;  
+       width: 250px;height: 20px; 
+   }
+   .cbomrc{
+    position: absolute; left: 85px;top: 60px;
+    height: 23px;width: 130px;
+    color:darkblue;
+   }
+   #lbprc{
+    position: absolute;left: 10px;top: 115px;
+    color: blue;
+   }
+   .divtablas{
+    position: absolute;left: 10px;top: 300px;
+   }
+   .divtablasmrc{
+    position: absolute;left: 10px;top: 160px;
+   }
+   #lbbuscar{
+     position: absolute;left: 20px;top: 2px;
+     color: blue;font-weight: bold;
+   }
+   #lbbuscarmrc{
+       position: absolute;left: 20px;top: 10px;
+       color: cornflowerblue;font-weight: bold;  
+   }
+   #txbus{
+    height: 20px;width: 300px;
+    position: absolute;left: 75px;top: 1px;
+   }
+   .tabla{
+    background-color: yellow;  
+    width: 550px;height: 350px;
+    position: absolute;left: 20px;top: 40px;
+   }
+   .tablamrc{
+       background-color:  cornsilk;
+       width: 450px;height: 250px;
+       position: absolute;left: 20px;top: 40px;
+      }
+   .cbtab{
+    background-color: #41298A;color: beige;
+    height: 30px;
+   }
+   .thcod{
+    width: 80px;
+   }
+   .thcodmrc{
+    width: 80px;   
+    background-color: darkblue;
+    color: chartreuse;
+   }
+   .thnommrc{
+       width: 350px;
+       background-color: darkblue;
+       color: chartreuse;
+   }
+   .thprod{ 
+    width: 260px;
+   }
+   .thmrc{
+       width: 120px;
+   }
+   .thprc{
+        width: 80px;}
+   .contendor1{
+    position: absolute;left: 600px;top: 10px;
+   }
+   .cuerpFormrc{
+       width: 345px;
+       height: 100px;
+       background-color:honeydew;
+       border-radius: 2px;
+       font-weight: bold;
+       position: relative; left: 50px;top: 20px;
+       border: solid 1px;
+   }
+   .pagconjq{
+    background-color: rgb(216, 216, 24);
+   }
+   #cbo{
+    width: 150px;   
+   }
+   #divproductos{
+    width: 350px;height: 130px;
+    background-color: cornflowerblue;
+   }
+   #lbcdo{
+    color: brown;font-weight: bold;
+    position: relative;left: 10px;top: 5px;   
+   }
+   #txcdo{
+    position: relative;left: 40px;top: 5px;
+    width: 90px;
+   }
+   #lbpdt{
+    position: relative; left: 10px;top: 20px;
+   } 
+   #txpdt{
+    position: relative; left: 30px;top: 20px;
+    width: 240px;
+   }
+   #lbpco{
+    position: relative; left: 10px;top: 35px;
+   } 
+   #txpco{
+    position: relative; left: 45px;top: 35px;
+    width: 90px;
+   }
+   .btAgregar{
+    color: blue;background-color: burlywood;
+    width: 90px;height: 30px;
+    position: relative;left: 230px; top: 10px;
+   }
+   .row-selected{
+    background-color: yellow;
+    color: #f22
+   }
+   .other-clic{
+    background-color: aqua;
+    color: black;
+   }
+   
